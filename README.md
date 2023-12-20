@@ -3,13 +3,17 @@
 
 ### **About me:**
 
-Fellow coffee-addict constantly learning and improving.
+Fellow coffee-addict constantly learning and improving. 
+
+My roundabout career so far:
+Front-End Dev → Marketing → Marketing Analytics (currently) → Full Stack (goal)
 
 🧠 `Chief Strategy Officer` at [Double M Studios](https://doublemstudios.com/)
 
 💻 **Using**:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 
