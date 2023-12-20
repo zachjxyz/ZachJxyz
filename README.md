@@ -5,19 +5,19 @@
 
 Fellow coffee-addict constantly learning and improving.
 
-🧠 `Chief of Strategy` at [Double M Studios](https://doublemstudios.com/)
+🧠 `Chief Strategy Officer` at [Double M Studios](https://doublemstudios.com/)
 
 💻 **Using**:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 
 📚 **Learning**:
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![ReactJS](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-
+![NodeJS](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 
 <div>
 
