@@ -3,9 +3,7 @@
 
 ### **About me:**
 
-Fellow coffee-addict constantly learning and improving. 
-
-My roundabout career so far:
+Fellow coffee-addict constantly learning and improving.
 
 Front-End Dev → Marketing → Marketing Analytics (currently) → Full Stack (goal)
 
