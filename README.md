@@ -1,13 +1,13 @@
 <div align = "center">
-<h2>Yo! Wassup, I'm Zach ☕️</h2>
+<h1>Yo! Wassup, I'm Zach ☕️</h1>
 
-### **About me:**
+## **About Me**
 
 Fellow coffee-addict constantly learning and improving.
 
-Front-End Dev → Marketing → Marketing Analytics (currently) → Full Stack (goal)
-
 🧠 `Chief Strategy Officer` at [Double M Studios](https://doublemstudios.com/)
+
+Front-End Dev → Marketing → Marketing Analytics (currently) → Full Stack (goal)
 
 💻 **Using**:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
