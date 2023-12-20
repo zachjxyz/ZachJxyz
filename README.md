@@ -6,6 +6,7 @@
 Fellow coffee-addict constantly learning and improving. 
 
 My roundabout career so far:
+
 Front-End Dev → Marketing → Marketing Analytics (currently) → Full Stack (goal)
 
 🧠 `Chief Strategy Officer` at [Double M Studios](https://doublemstudios.com/)
