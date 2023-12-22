@@ -13,4 +13,4 @@ Freelance Front-End Dev → Marketing → Marketing Analytics (currently) → Fu
 
 Thanks for stopping by!
 
-You're ![](https://komarev.com/ghpvc/?username=ZachConquer&color=a573ff&label=Visitor_Number:&style=flat)
+![](https://komarev.com/ghpvc/?username=ZachConquer&color=a573ff&label=Visitor_Number:&style=flat)
