@@ -11,4 +11,6 @@ Freelance Front-End Dev → Marketing → Marketing Analytics (currently) → Fu
 
 📚 **Learning**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) ![NodeJS](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 
-Thanks for stopping by. So far, you're ![](https://komarev.com/ghpvc/?username=ZachConquer&color=a573ff&label=visitor_number:&style=flat)
+Thanks for stopping by!
+
+You're ![](https://komarev.com/ghpvc/?username=ZachConquer&color=a573ff&label=Visitor_Number:&style=flat)
