@@ -25,7 +25,7 @@ I'm Zach, a fellow coffee-lover and former marketing analyst turned full-stack e
     <tr>
       <td align="center"><a href="https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/0143110918?qid=1703534721&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71GT3SqvbrL._AC_UY436_FMwebp_QL65_.jpg" height="150px"></a></td>
     <td align="center"><a href="https://www.amazon.com/Industrial-Society-Its-Future-Unabomber/dp/B086Y5JY5K?crid=3EVP05TNAGE26&keywords=industrial+society+and+it's+future&qid=1703535100&sprefix=industrial+socie,aps,119&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41ySrRF+tXL._SY445_SX342_.jpg" height="150px"></a></td>
-    <td align="center"><a href="[https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/0143110918?qid=1703534721&sr=8-1](https://www.amazon.com/NEW-Influence-Psychology-Persuasion-New-Expanded/dp/B09VQ3XCZV?qid=1703535154&sr=8-1)" target="_blank"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41EdBtnpsrL._SY445_SX342_.jpg" height="150px"></a></td>
+    <td align="center"><a href="https://www.amazon.com/NEW-Influence-Psychology-Persuasion-New-Expanded/dp/B09VQ3XCZV?qid=1703535154&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41EdBtnpsrL._SY445_SX342_.jpg" height="150px"></a></td>
     </tr>
   </table>
 </div>
