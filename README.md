@@ -18,9 +18,9 @@ I'm Zach, a fellow coffee-lover and former marketing analyst turned full-stack e
   <p>I'm an avid reader with strong desire to understand people. Our deepest motivations drive us to do all sorts of things and that fascinates me. With radically open mind, I read all types of books related to the human experience to <em>try to understand</em> people from all walks of life.</p>
   <table>
     <tr>
-      <th><strong>Currently Reading</strong></th>
-      <th><strong>Just Completed</strong></th>
-      <th><strong>Recommendation</strong></th>
+      <th><strong>Reading</strong></th>
+      <th><strong>Just Read</strong></th>
+      <th><strong>Recommend</strong></th>
     </tr>
     <tr>
       <td align="center"><a href="https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/0143110918?qid=1703534721&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71GT3SqvbrL._AC_UY436_FMwebp_QL65_.jpg" height="100vh"></a></td>
