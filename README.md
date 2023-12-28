@@ -1,6 +1,6 @@
 # Hey ☕️
 <div align="justify">
-I'm Zach, a fellow coffee-lover and marketer turned full-stack engineer. Right now, I'm super focused on everything Web Dev because I believe it's bleeding edge between people and technology. The underlying tone throughout my life has always been deeply rooted in Psychology, and I believe the intersection I occupy enables me to help people realize their goals. 
+I'm Zach, a fellow coffee-lover and marketer turned full-stack developer. My core interests are deeply rooted in Psychology and Technology, and I'm fascinated with how software continues to blur the difference between people and computers. 
 <br />
 <br />
 <strong>I'm open to work. Feel free to contact me below:</strong>
