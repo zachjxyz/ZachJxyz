@@ -1,6 +1,6 @@
 # Hey ☕️
 <div align="justify">
-I'm Zach, a fellow coffee-lover and marketer turned full-stack developer. My core interests are deeply rooted in Psychology and Technology, and I'm fascinated with how software continues to blur the difference between people and computers. 
+I'm Zach, a fellow coffee-lover and marketer turned full-stack developer. My core interests are deeply rooted in Psychology and Technology, and I'm fascinated with how software continues to blur the lines between people and computers. 
 <br />
 <br />
 <strong>I'm open to work. Feel free to contact me below:</strong>
