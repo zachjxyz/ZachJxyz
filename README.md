@@ -1,6 +1,6 @@
 # Hey ☕️
 <div align="justify">
-Lover of coffee and books, I'm a marketer and full-stack developer. Both reflect my two core drivers: Psychology and Technology. These disciplines enable me to understand the value of a business and how to bring it to life. Software will continue to blur the lines between people and computers. This intersection of skills allow me to create that future.
+Lover of coffee and books, I'm a marketer and full-stack developer. Both reflect my two core drivers: Psychology and Technology. These disciplines enable me to understand the value of a business and how to bring it to life. Software will continue to blur the lines between people and computers. My combination of skills allow me to create that future.
 <br />
 <br />
 <strong>I'm open to work. Feel free to contact me below:</strong>
