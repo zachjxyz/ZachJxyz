@@ -5,8 +5,7 @@
 <p>I view myself as the guy Innovators go to when they want to think bigger and challenge themselves.</p>
 <p>On a personal level, I love everything endurance and adventure. In 2023, I ran three races, including my first marathon, and I swapped my car for a commuter bicycle. Something about being fully engaged, mentally stimulated, and physically challenged invigorates me.</p>
 <br />
-<br />
-<strong>I'm open to work. Feel free to contact me below:</strong>
+<p><strong>I'm open to work. Feel free to contact me below:</strong></p>
 </div>
 <br/>
 <a href="https://www.linkedin.com/in/zachjxyz"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
