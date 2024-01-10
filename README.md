@@ -1,7 +1,7 @@
 # Hey ☕️
 <div align="justify">
 My life's mission is to blend my vocation and my passion to build a better future.
-
+<br />
 Through my work as a Business Strategist and Data Scientist, I get to sharpen my two core drivers: Psychology and Technology. I love thinking deeply about problems and coming up with novel solutions.
 
 I view myself as the guy Innovators go to when they want to think bigger and challenge themselves.
