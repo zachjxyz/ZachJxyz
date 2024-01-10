@@ -1,6 +1,12 @@
 # Hey ☕️
 <div align="justify">
-Lover of coffee and books, I'm a marketer and full-stack developer. Both reflect my two core drivers: Psychology and Technology. These disciplines enable me to understand the value of a business and how to bring it to life. Software will continue to blur the lines between people and computers. My combination of skills allow me to create that future.
+My life's mission is to blend my vocation and my passion to build a better future.
+
+Through my work as a Business Strategist and Data Scientist, I get to sharpen my two core drivers: Psychology and Technology. I love thinking deeply about problems and coming up with novel solutions.
+
+I view myself as the guy Innovators go to when they want to think bigger and challenge themselves.
+
+On a personal level, I love everything endurance and adventure. I ran my first marathon in 2023 and I swapped my car for a commuter bicycle. Something about being fully engaged, mentally stimulated, and physically challenged invigorates me.
 <br />
 <br />
 <strong>I'm open to work. Feel free to contact me below:</strong>
