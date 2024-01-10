@@ -17,7 +17,7 @@
 
 <div>
   <h2>📚 Reading List</h2>
-  <p align="justify">I'm an avid reader with strong desire to understand people. Our deepest motivations drive us to do all sorts of things and that fascinates me. With radically open mind, I read all types of books related to the human experience to <em>try to understand</em> people from all walks of life.</p>
+  <p align="justify">I'm an avid reader with strong desire to understand people. Our deepest motivations drive us to do all sorts of things and that fascinates me. With a radically open mind, I read all types of books related to the human experience to <em>try to understand</em> people from all walks of life.</p>
   <table>
     <tr>
       <th><strong>Reading</strong></th>
