@@ -1,9 +1,11 @@
 # Hey ☕️
 <div align="justify">
-Lover of coffee and books, I'm a marketer and full-stack developer. Both reflect my two core drivers: Psychology and Technology. These disciplines enable me to understand the value of a business and how to bring it to life. Software will continue to blur the lines between people and computers. My combination of skills allow me to create that future.
+<p>My life's mission is to blend my vocation and my passion to build a better future.</p>
+<p>Through my work as a Strategist and Data Scientist, I get to sharpen my two core drivers: Psychology and Technology. I love thinking deeply about problems and coming up with novel solutions.</p>
+<p>I view myself as the guy Innovators go to when they want to think bigger and challenge themselves.</p>
+<p>On a personal level, I love everything endurance and adventure. In 2023, I ran three races, including my first marathon, and I swapped my car for a commuter bicycle. Something about being fully engaged, mentally stimulated, and physically challenged invigorates me.</p>
 <br />
-<br />
-<strong>I'm open to work. Feel free to contact me below:</strong>
+<p><strong>I'm open to work. Feel free to contact me below:</strong></p>
 </div>
 <br/>
 <a href="https://www.linkedin.com/in/zachjxyz"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
@@ -15,7 +17,7 @@ Lover of coffee and books, I'm a marketer and full-stack developer. Both reflect
 
 <div>
   <h2>📚 Reading List</h2>
-  <p align="justify">I'm an avid reader with strong desire to understand people. Our deepest motivations drive us to do all sorts of things and that fascinates me. With radically open mind, I read all types of books related to the human experience to <em>try to understand</em> people from all walks of life.</p>
+  <p align="justify">I'm an avid reader with strong desire to understand people. Our deepest motivations drive us to do all sorts of things and that fascinates me. With a radically open mind, I read all types of books related to the human experience to <em>try to understand</em> people from all walks of life.</p>
   <table>
     <tr>
       <th><strong>Reading</strong></th>
