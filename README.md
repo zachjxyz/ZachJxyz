@@ -1,7 +1,7 @@
 # Hey ☕️
 <div align="justify">
 <p>My life's mission is to blend my vocation and my passion to build a better future.</p>
-<p>Through my work as a Strategist and Data Scientist, I get to sharpen my two core drivers: Psychology and Technology. I love thinking deeply about problems and coming up with novel solutions.</p>
+<p>Through my work as a Strategist and aspiring Data Scientist, I get to sharpen my two core drivers: Psychology and Technology. I love thinking deeply about problems and coming up with novel solutions.</p>
 <p>I view myself as the guy Innovators go to when they want to think bigger and challenge themselves.</p>
 <p>On a personal level, I love everything endurance and adventure. In 2023, I ran three races, including my first marathon, and I swapped my car for a commuter bicycle. Something about being fully engaged, mentally stimulated, and physically challenged invigorates me.</p>
 <br />
