@@ -1,15 +1,15 @@
 # Hey ☕️
 <div align="justify">
 <p>My life's mission is to blend my vocation and my passion to build a better future.</p>
-<p>Through my work as a Strategist and aspiring Data Scientist, I get to sharpen my two core drivers: Psychology and Technology. I love thinking deeply about problems and coming up with novel solutions.</p>
+<p>Through my work, I get to sharpen my two core drivers: Psychology and Technology. I love thinking deeply about problems and coming up with novel solutions.</p>
 <p>I view myself as the guy Innovators go to when they want to think bigger and challenge themselves.</p>
-<p>On a personal level, I love everything endurance and adventure. In 2023, I ran three races, including my first marathon, and I swapped my car for a commuter bicycle. Something about being fully engaged, mentally stimulated, and physically challenged invigorates me.</p>
+<p>On a personal level, I love everything endurance and adventure. In 2023, I ran three races, including my first marathon, and I sold my car to become a full-time bike commuter. Something about being fully engaged, mentally stimulated, and physically challenged invigorates me.</p>
 <br />
 <p><strong>I'm open to work. Feel free to contact me below:</strong></p>
 </div>
 <br/>
 <a href="https://www.linkedin.com/in/zachjxyz"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:zacharyvincentjohnson@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="mailto:hey@zachj.xyz"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 # 💻 **Languages, Frameworks, & Tools**
 
@@ -25,9 +25,9 @@
       <th><strong>Recommend</strong></th>
     </tr>
     <tr>
-      <td align="center"><a href="https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/0143110918?qid=1703534721&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71GT3SqvbrL._AC_UY436_FMwebp_QL65_.jpg" height="100vh"></a></td>
-    <td align="center"><a href="https://www.amazon.com/Industrial-Society-Its-Future-Unabomber/dp/B086Y5JY5K?crid=3EVP05TNAGE26&keywords=industrial+society+and+it's+future&qid=1703535100&sprefix=industrial+socie,aps,119&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41ySrRF+tXL._SY445_SX342_.jpg" height="100vh"></a></td>
-    <td align="center"><a href="https://www.amazon.com/NEW-Influence-Psychology-Persuasion-New-Expanded/dp/B09VQ3XCZV?qid=1703535154&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41EdBtnpsrL._SY445_SX342_.jpg" height="100vh"></a></td>
+      <td align="center"><a href="https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/0143110918?qid=1703534721&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/I/81GOdrpB6hL._SY522_.jpg" height="100vh"></a></td>
+    <td align="center"><a href="https://www.amazon.com/Industrial-Society-Its-Future-Unabomber/dp/B086Y5JY5K?crid=3EVP05TNAGE26&keywords=industrial+society+and+it's+future&qid=1703535100&sprefix=industrial+socie,aps,119&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/I/41ySrRF+tXL._SY445_SX342_.jpg" height="100vh"></a></td>
+    <td align="center"><a href="https://www.amazon.com/NEW-Influence-Psychology-Persuasion-New-Expanded/dp/B09VQ3XCZV?qid=1703535154&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/I/41EdBtnpsrL._SY445_SX342_.jpg" height="100vh"></a></td>
     </tr>
   </table>
 </div>
