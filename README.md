@@ -1,11 +1,10 @@
 # Hey ☕️
 <div align="justify">
-<p>My life's mission is to blend my vocation and my passion to build a better future.</p>
-<p>Through my work, I get to sharpen my two core drivers: Psychology and Technology. I love thinking deeply about problems and coming up with novel solutions.</p>
-<p>I view myself as the guy Innovators go to when they want to think bigger and challenge themselves.</p>
+<p>I’m a student of Life and the human condition fascinates me — it always has.</p>
+<p>My life's mission is to blend my vocation and my passion to build a better future. With that in mind, I frequently revisit various sub-disciplines intersecting Psychology & Technology. For most of my personal life and professional career, both have felt like opposite sides of a spectrum. Nowadays, I aim to harmonize and integrate them into a singular thing.</p>
 <p>On a personal level, I love everything endurance and adventure. In 2023, I ran three races, including my first marathon, and I sold my car to become a full-time bike commuter. Something about being fully engaged, mentally stimulated, and physically challenged invigorates me.</p>
 <br />
-<p><strong>I'm open to work. Feel free to contact me below:</strong></p>
+<p>In my free time, I publish articles on my website regarding these two subjects.If you’re interested, check it out: https://zachj.xyz/ 📝</p>
 </div>
 <br/>
 <a href="https://www.linkedin.com/in/zachjxyz"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
