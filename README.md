@@ -24,9 +24,9 @@
       <th><strong>Recommend</strong></th>
     </tr>
     <tr>
-      <td align="center"><a href="https://www.amazon.com/Outlive-Longevity-Peter-Attia-MD/dp/0593236599" target="_blank"><img src="https://m.media-amazon.com/images/I/71X9FMy66NL._SY522_.jpg" height="100vh"></a></td>
+      <td align="center"><a href="https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749" target="_blank"><img src="https://c.media-amazon.com/images/I/81ZtMfYNTeL._SY522_.jpg" height="100vh"></a></td>
       <td align="center"><a href="https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/0143110918?qid=1703534721&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/I/81GOdrpB6hL._SY522_.jpg" height="100vh"></a></td>
-    <td align="center"><a href="https://www.amazon.com/NEW-Influence-Psychology-Persuasion-New-Expanded/dp/B09VQ3XCZV?qid=1703535154&sr=8-1" target="_blank"><img src="https://m.media-amazon.com/images/I/41EdBtnpsrL._SY445_SX342_.jpg" height="100vh"></a></td>
+      <td align="center"><a href="https://www.amazon.com/Outlive-Longevity-Peter-Attia-MD/dp/0593236599" target="_blank"><img src="https://m.media-amazon.com/images/I/71X9FMy66NL._SY522_.jpg" height="100vh"></a></td>
     </tr>
   </table>
 </div>
